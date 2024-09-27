@@ -1,4 +1,7 @@
-# Projeto de Raciocinio Computacional
-Sistema de gerenciamento acadêmico feito durante a disciplina de Raciocinio Computacional na PUC-PR.
+# Projeto de Raciocínio Computacional
 
-Esse foi um trabalho resealisado na faculdade onde a temática do projeto da disciplina foi um Sistema de Gerenciamento Acadêmico em Phyton, que envolve o cadastro de informações relacionadas aos estudantes, disciplinas, professores e turmas. Este sistema foi desenvolvido incrementalmente durante o decorrer da disciplina, conforme as orientações semanais.
+Sistema de gerenciamento acadêmico desenvolvido durante a disciplina de Raciocínio Computacional na PUC-PR.
+
+Este projeto foi realizado na faculdade com o objetivo de criar um sistema simples para gerenciamento acadêmico, permitindo cadastrar, editar, excluir e listar disciplinas, estudantes, matrículas, professores e turmas. Os dados são armazenados em arquivos JSON para persistência.
+
+O desenvolvimento foi feito de forma incremental, conforme as tarefas semanais da disciplina.
