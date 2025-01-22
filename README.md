@@ -1,7 +1,9 @@
 # Projeto de Raciocínio Computacional
 
-Sistema de gerenciamento acadêmico desenvolvido durante a disciplina de Raciocínio Computacional na PUC-PR.
+Este repositório contém um sistema de gerenciamento acadêmico desenvolvido como parte da disciplina de **Raciocínio Computacional** na **PUC-PR**.
 
-Este projeto foi realizado na faculdade com o objetivo de criar um sistema simples para gerenciamento acadêmico, permitindo cadastrar, editar, excluir e listar disciplinas, estudantes, matrículas, professores e turmas. Os dados são armazenados em arquivos JSON para persistência.
+## Descrição
 
-O desenvolvimento foi feito de forma incremental, conforme as tarefas semanais da disciplina.
+O projeto tem como objetivo criar um sistema simples para o gerenciamento de dados acadêmicos, permitindo as funcionalidades de cadastrar, editar, excluir e listar disciplinas, estudantes, matrículas, professores e turmas. A persistência dos dados é feita utilizando arquivos **JSON**.
+
+O desenvolvimento do sistema seguiu uma abordagem incremental, com funcionalidades sendo implementadas de acordo com as intruçÕes semanais da disciplina.
