@@ -1,4 +1,4 @@
-# Projeto de Raciocínio Computacional
+## **Projeto de Raciocínio Computacional**
 
 Sistema de gerenciamento acadêmico desenvolvido como parte da disciplina de **Raciocínio Computacional** na **PUC-PR**.
 
